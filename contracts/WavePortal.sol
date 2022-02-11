@@ -6,7 +6,7 @@ import "hardhat/console.sol";
 
 contract WavePortal {
   constructor () {
-    console.log("Yo yo, I am a contract and I am smart");
+    console.log("Welcome to the go to Social network of Web3");
 
      }
   
